@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*,*:after, *:before {
+    box-sizing: inherit;
+}
+
+.homepage__body {
+    background: #3d1541;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    max-width: 300px;
+    width: 100%;
+}
+    
